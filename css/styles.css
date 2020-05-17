@@ -15,5 +15,31 @@ h2{
 }
 
 .title-background{
-    background: ;
+    background: #070707;
+    width: fit-content;
+    margin: auto;
+    padding: 10px;
+}
+
+.title{
+    text-align: center;
+    color: #d0d0d0;
+    font-size: 2em;
+}
+
+/* navslider*/
+.nav-slider{
+    padding: 15px;
+    cursor: pointer;
+}
+
+.line{
+    background: #eee;
+    height: 3px;
+    margin: 5px;
+    width: 30px;
+}
+
+.line:nth-child(1){
+    margin-top: 0px;
 }
