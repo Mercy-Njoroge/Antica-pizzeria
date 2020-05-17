@@ -1,4 +1,19 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+h2{
+    margin: 0px;
+}
+
 /*landing page */
-#langing-page{
-    background-image: url('/images/landing.jpeg');
+#landing{
+     background: url('/images/landing.jpeg');
+     background-size: cover;
+     background-repeat: no-repeat;
+     height: 100vh;
+}
+
+.title-background{
+    background: ;
 }
