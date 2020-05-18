@@ -206,8 +206,40 @@
                         <th scope="col">Total</th>
                       </tr>
                     </thead>
+                    <tbody id="ordersmade">
+                        <tr>
+                          <td id="pizzaname"></td>
+                          <td id="pizzasize"></td>
+                          <td id="pizzacrust"></td>
+                          <td id="pizzatopping"></td>
+                          <td id="totals"></td>
+                        </tr>                  
+                      </tbody>
+                    </table>
+                    <p id="pizzatotal"></p>
+                    <p id="totalbill"></p> 
+                    <p id="addedprice">Delivery cost sh. 100</p>
+                    <p id="finallmessage"></p>
+                  </div>
+                  <button class="btn btn-orange addPizza">Add Pizza</button>
+                  <button class="btn btn-orange" id="checkout">Checkout</button>
+                  <button class="btn btn-orange deliver">Home delivery?</button>
+                </div>
+                <div class="delivery">
+                    <form action="">
+                      <div class="form-group">
+                        <input type="text" id="name" class="form-control mb-3" placeholder="Name">
+                        <input type="number" id="phone" class="form-control mb-3" placeholder="Pnone Number">
+                        <input type="text" id="location" class="form-control mb-3" placeholder="Location for delivery">
+                        <button class="btn btn-orange" id="final-order">Place Order</button>
+                      </div>
+                    </form>
+                </div>
+              </div>
+          </div>
+        </div>
+      </div>
 
-                    
 
     <script src="javascript/scripts.js"></script>
     <script src="javascript/jquery-3.5.1.js"></script>
