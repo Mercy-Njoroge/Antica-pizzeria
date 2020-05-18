@@ -36,7 +36,7 @@ This web application for Antica pizzeria is a pizza selling application, that sh
 
 ## Known Bugs
 
-* 
+* The background image fails to show
 
 ## Contact Information 
 
