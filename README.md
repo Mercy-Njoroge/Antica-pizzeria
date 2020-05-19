@@ -5,7 +5,7 @@
 
 ## Description
 
-This web application for Antica pizzeria is a pizza selling application, that shows details about the services and different pizza they sell, and it allows customers to order online for their preferred pizza depending on size, crust and preffered topping it also allows them to input a location which they would like the pizza delivered to. 
+This web application for Antica pizzeria is a pizza selling application, that shows  different pizza they sell, and it allows customers to order online for their preferred pizza depending on size, crust and preffered topping it also allows them to input a location which they would like the pizza delivered to. 
 
 ## Live Page 
 [] 
@@ -36,7 +36,7 @@ This web application for Antica pizzeria is a pizza selling application, that sh
 
 ## Known Bugs
 
-* The background image fails to show
+* The project fails to show pizza varieties
 
 ## Contact Information 
 
