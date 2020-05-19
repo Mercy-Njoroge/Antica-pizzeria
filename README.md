@@ -8,7 +8,7 @@
 This web application for Antica pizzeria is a pizza selling application, that shows  different pizza they sell, and it allows customers to order online for their preferred pizza depending on size, crust and preffered topping it also allows them to input a location which they would like the pizza delivered to. 
 
 ## Live Page 
-[] 
+[https://mercy-njoroge.github.io/Antica-pizzeria/] 
 
 ## Installation / Setup instruction
 * Clone to your machine
